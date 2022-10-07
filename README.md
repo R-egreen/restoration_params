@@ -14,13 +14,10 @@
   Assume-se que os modelos abaixo são do tipo de otimismo **intermediário**.
   
   + ARN
-  + MRNN 100%
-  + MRNN 50%
+  + MRNN_100
   + MRNN_C
-  + BRNY 100 %
-  + BRNY 50 %
-  + BRNN 100 %
-  + BRNN 50 %
+  + BRNY_100
+  + BRNN_100
   + BRNY_C
   + BRNN_C
   
